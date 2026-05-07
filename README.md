@@ -54,17 +54,17 @@
 
 </tr>
 </table>
----
 
 <div align="center">
 
 ## ✦ Estatísticas ✦
 
+<img src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=tokyonight" />
+
 <br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetelleenKeiziane&layout=compact&theme=tokyonight" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetelleenKeiziane&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 
 
