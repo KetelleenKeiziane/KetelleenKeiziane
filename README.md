@@ -1,13 +1,62 @@
+<div align="center">
+
+# ✨ Olá, eu sou Ketelleen Keiziane ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=Ciência+de+Dados;Python+Developer;Java+Student;Always+learning..." />
+
+</div>
+
+---
+
+## 🌙 Sobre mim
+
+💜 Focada em Ciência de Dados
+💻 Python | SQL | Power BI | Java
+🚀 Explorando dados e criando soluções
+✨ Em constante evolução
+
+---
+
 ## 💻 Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,vscode,git,github" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+## 📊 Estatísticas
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetelleenKeiziane&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+💜 Projeto Página de Login
+💜 Sistema de Leilões em Java
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif" width="120px">
+
+</div>
+
+---
+
+<div align="center">
+
+✨ "Building my future one commit at a time." ✨
+
+</div>
+
