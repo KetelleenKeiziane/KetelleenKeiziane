@@ -20,10 +20,8 @@ Analista e Desenvolvedora de Sistemas com foco em **Ciência de Dados**. Apaixon
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
 </div>
   
-## 📊 Estatísticas
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetelleenKeiziane&layout=compact&langs_count=7&theme=tokyonight"/>
-
+</div>
 </div>
