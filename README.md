@@ -1,7 +1,7 @@
 
-# Olá! Eu sou a Ketelleen 
+# Olá! Eu sou a Ketelleen Keiziane
 
-Me chamo Ketelleen Keiziane, tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médio e o curso Técnico em Desenvolvimento de Sistemas pelo SENAC. Tenho interesse na área de Dados e Business Intelligence, com conhecimentos em Python, SQL, Power BI e Estatística. Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em análise de dados, banco de dados, criação de dashboards e visualização de informações.
+Tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médio e o curso Técnico em Desenvolvimento de Sistemas pelo SENAC. Tenho interesse na área de Dados e Business Intelligence, com conhecimentos em Python, SQL, Power BI e Estatística. Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em análise de dados, banco de dados, criação de dashboards e visualização de informações.
 
 
 ## Onde me encontrar
