@@ -58,3 +58,10 @@ Tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médi
 
 </p>
 
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KetelleenKeiziane/KetelleenKeiziane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KetelleenKeiziane/KetelleenKeiziane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KetelleenKeiziane/KetelleenKeiziane/output/github-contribution-grid-snake.svg">
+</picture>
