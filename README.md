@@ -1,7 +1,7 @@
 
 # Olá! Eu sou a Ketelleen 
 
-Me chamo Ketelleen Keiziane de Souza Gomes, tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médio e o curso Técnico em Desenvolvimento de Sistemas pelo SENAC. Tenho interesse na área de Dados e Business Intelligence, com conhecimentos em Python, SQL, Power BI e Estatística. Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em análise de dados, banco de dados, criação de dashboards e visualização de informações.
+Me chamo Ketelleen Keiziane, tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médio e o curso Técnico em Desenvolvimento de Sistemas pelo SENAC. Tenho interesse na área de Dados e Business Intelligence, com conhecimentos em Python, SQL, Power BI e Estatística. Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em análise de dados, banco de dados, criação de dashboards e visualização de informações.
 
 
 ## Onde me encontrar
@@ -35,3 +35,25 @@ Me chamo Ketelleen Keiziane de Souza Gomes, tenho 18 anos e sou natural de Manau
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+--- ---
+### Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&langs_count=9" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetelleenKeiziane&layout=donut&theme=dark&custom_title=Tecnologias&langs_count=9"
+  />
+
+</p>
+
