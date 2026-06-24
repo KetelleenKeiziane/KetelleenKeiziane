@@ -44,7 +44,7 @@ Tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médi
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200em" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=tokyonight&&locale=pt-br" 
   />
