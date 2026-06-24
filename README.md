@@ -6,7 +6,7 @@ Tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médi
   <img src="https://media.tenor.com/j_p_CwZo9FwAAAAd/rebecca.gif" width="300px" alt="Gif de tecnologia">
 </p>
 
-## **`Onde me encontrar`**
+## **`Onde me Encontrar`**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketelleen-keiziane-953427387)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ketelleenkeiziane)
 
@@ -46,17 +46,18 @@ Tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=tokyonight&&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="190em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetelleenKeiziane&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KetelleenKeiziane/KetelleenKeiziane/output/github-contribution-grid-snake-dark.svg">
