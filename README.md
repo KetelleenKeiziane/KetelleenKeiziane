@@ -43,16 +43,16 @@ Tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médi
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="400" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api?username=KetelleenKeiziane&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&langs_count=10" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetelleenKeiziane&layout=donut&theme=dark&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetelleenKeiziane&layout=donut&theme=dark&custom_title=Tecnologias&langs_count=10"
   />
 
 </p>
