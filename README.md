@@ -6,11 +6,11 @@ Tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médi
   <img src="https://media.tenor.com/j_p_CwZo9FwAAAAd/rebecca.gif" width="300px" alt="Gif de tecnologia">
 </p>
 
-
-## Onde me encontrar
+### **`Onde me encontrar`**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketelleen-keiziane-953427387)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ketelleenkeiziane)
 
+### **`Tecnologias Usadas`**
 
 ### Linguagens e Marcação
 
@@ -58,7 +58,7 @@ Tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médi
 
 </p>
 
-## 🐍 Minhas contribuições
+## Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KetelleenKeiziane/KetelleenKeiziane/output/github-contribution-grid-snake-dark.svg">
