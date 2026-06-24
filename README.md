@@ -4,12 +4,12 @@
 Me chamo Ketelleen Keiziane de Souza Gomes, tenho 18 anos e sou natural de Manaus, Amazonas. Estou concluindo o Ensino Médio e o curso Técnico em Desenvolvimento de Sistemas pelo SENAC. Tenho interesse na área de Dados e Business Intelligence, com conhecimentos em Python, SQL, Power BI e Estatística. Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em análise de dados, banco de dados, criação de dashboards e visualização de informações.
 
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketelleen-keiziane-953427387)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ketelleenkeiziane)
 
-##  Tecnologias que estou desenvolvendo
+##  Tecnologias Usadas
 
 ### Linguagens e Marcação
 
